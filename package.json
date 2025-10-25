@@ -1,0 +1,11 @@
+{
+  "name": "backand_with_chai",
+  "version": "1.0.0",
+  "description": "chai or chde ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishikant",
+  "license": "ISC"
+}
